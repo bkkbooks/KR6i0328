@@ -1,0 +1,365 @@
+canonical_identifier: bkk:krp/KR6i0328/v1
+canonical_location: https://kanripo.org/bkk/KR6i0328/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 入楞伽經
+  identifiers:
+    alt_id:
+    - T16n0671
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0671.xml
+    old_id: T16n0671
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0328_000.yaml, hash: 'sha256:4b8f285132aa15331948f2c4538aea6d7dd721a0fd30ecf363fa5a177688912e'}
+  - {seq: 1, filename: KR6i0328_001.yaml, hash: 'sha256:ea3c49fd6b80193604037b9ac610e4d1c49363ef0951dc3076965e9a4214c30e'}
+  - {seq: 2, filename: KR6i0328_002.yaml, hash: 'sha256:4374d6d5ca66b6e8a26309650c303224bc7a10ac663e89f7cc1b61c8f90218de'}
+  - {seq: 3, filename: KR6i0328_003.yaml, hash: 'sha256:c718c293fc0cc695c46ea6a0155ea3e12a5866a2cae0e08808eb5216c3b62d0f'}
+  - {seq: 4, filename: KR6i0328_004.yaml, hash: 'sha256:51abf3b16e5de3360f6547078967202e0e426b28449bd9c664ba028f908c933c'}
+  - {seq: 5, filename: KR6i0328_005.yaml, hash: 'sha256:bc786e8264ba614bf4013041726d0f3da365b6addac2239e64edb838b79b84ed'}
+  - {seq: 6, filename: KR6i0328_006.yaml, hash: 'sha256:1f0e5a70dfd280f4e61293e29a2619910983d2098657acbd8bf1cfd6ca321cff'}
+  - {seq: 7, filename: KR6i0328_007.yaml, hash: 'sha256:db3a8416a17d67bd5095895622f9551cfb62ed7138c402bae97f7fbe5520995d'}
+  - {seq: 8, filename: KR6i0328_008.yaml, hash: 'sha256:38ba35534bb1e2e61943476e5434e3b3f788ff17087af37d98ff4449adf9d845'}
+  - {seq: 9, filename: KR6i0328_009.yaml, hash: 'sha256:bfefb586e7157afccf5c486117e4f4769a0fa097b247933f1f66f3659c78bb6f'}
+  - {seq: 10, filename: KR6i0328_010.yaml, hash: 'sha256:588575a48d65e74ff213beef8e9ca36e9cacd1c87a09db503964f4df01b83d0c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0328_001.markers.yaml, hash: 'sha256:c43cc860b3fd0c8a6532d927b31f7ab03045d3e631dd892e95f4e518be53ac34'}
+  - {seq: 2, role: markers, filename: assets/KR6i0328_002.markers.yaml, hash: 'sha256:54a3d7f34b48cdc18d443b5746f51cd6049a06fadc69f12e17b2c6fdb647c85a'}
+  - {seq: 3, role: markers, filename: assets/KR6i0328_003.markers.yaml, hash: 'sha256:cd439ea9c31ee22f8d5c3736cfb6509d8994a06ad615d877331ec5512d44ba69'}
+  - {seq: 4, role: markers, filename: assets/KR6i0328_004.markers.yaml, hash: 'sha256:420f978d109c75a468c334b57440a2069f9d1e3b3b8d1b853e690e3f946e8ca9'}
+  - {seq: 5, role: markers, filename: assets/KR6i0328_005.markers.yaml, hash: 'sha256:15b2c5e00cd45cea206f267a4607306d16ab1f9c791d440f0f903c469b0935fb'}
+  - {seq: 6, role: markers, filename: assets/KR6i0328_006.markers.yaml, hash: 'sha256:4f40a38aae903cba70f5ff60adc85a7b876e684b6f0517599fde95bb911a0b4b'}
+  - {seq: 7, role: markers, filename: assets/KR6i0328_007.markers.yaml, hash: 'sha256:bf6d4c37af52c9160d4cff69df37128a9599c3e2c0aef9c54c5fd2712abe4a0a'}
+  - {seq: 8, role: markers, filename: assets/KR6i0328_008.markers.yaml, hash: 'sha256:ce9b1ab88e75fbe5032f0b3ef2baf4a53758b67c80b517d58182c27c319899d5'}
+  - {seq: 9, role: markers, filename: assets/KR6i0328_009.markers.yaml, hash: 'sha256:e771c3aaca0fb23d59af17f4f5d4f712c3b4486809816c6e06b1687ddcd2929f'}
+  - {seq: 10, role: markers, filename: assets/KR6i0328_010.markers.yaml, hash: 'sha256:c8e765f46cb22cbe0d4dd6cc76beff3915f519eeaf0e5d8931d0fcb12fbbc7bd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0328_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7918
+  label: 入楞伽經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0328_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 請佛品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0328_T_001-mulu-2
+    span:
+    - body
+    - 5200
+    - 5200
+  label: 2 問答品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0328_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7345
+  label: 入楞伽經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0328_T_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 3 集一切佛法品(二-四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0328_T_002-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0328_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8672
+  label: 入楞伽經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0328_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8023
+  label: 入楞伽經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0328_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8550
+  label: 入楞伽經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0328_T_005-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 4 佛心品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0328_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8005
+  label: 入楞伽經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0328_T_006-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 5 盧迦耶陀品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0328_T_006-mulu-2
+    span:
+    - body
+    - 2484
+    - 2484
+  label: 6 涅槃品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0328_T_006-mulu-3
+    span:
+    - body
+    - 3671
+    - 3671
+  label: 7 法身品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0328_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7751
+  label: 入楞伽經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0328_T_007-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 8 無常品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0328_T_007-mulu-2
+    span:
+    - body
+    - 1469
+    - 1469
+  label: 9 入道品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0328_T_007-mulu-3
+    span:
+    - body
+    - 3022
+    - 3022
+  label: 10 問如來常無常品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0328_T_007-mulu-4
+    span:
+    - body
+    - 3836
+    - 3836
+  label: 11 佛性品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0328_T_007-mulu-5
+    span:
+    - body
+    - 4869
+    - 4869
+  label: 12 五法門品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0328_T_007-mulu-6
+    span:
+    - body
+    - 6304
+    - 6304
+  label: 13 恒河沙品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0328_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7544
+  label: 入楞伽經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0328_T_008-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 14 剎那品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0328_T_008-mulu-2
+    span:
+    - body
+    - 1349
+    - 1349
+  label: 15 化品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0328_T_008-mulu-3
+    span:
+    - body
+    - 2309
+    - 2309
+  label: 16 遮食肉品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0328_T_008-mulu-4
+    span:
+    - body
+    - 6822
+    - 6822
+  label: 17 陀羅尼品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0328_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 9315
+  label: 入楞伽經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0328_T_009-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 18 總品(九-十)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0328_T_009-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0328_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 9039
+  label: 入楞伽經卷第十
+  type: juan
+  level: 1
+hash: sha256:f7c9b8ef76b86b8df9e024eb8513bf941d23ef6be67095fe23ebd7b9319bb2dd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
